@@ -5,7 +5,7 @@ A simple implementation of the Menger Sponge in P5.js
 Open the `index.html` file in your browser.
 
 ## Example
-![Menger Sponge](./example.gif)
+For an Example please go to: https://jredrupp.github.io/p5_menger_sponge/sponge.html
 
 ## License
 MIT License
