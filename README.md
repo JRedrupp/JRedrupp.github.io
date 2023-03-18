@@ -1,4 +1,5 @@
 # JRedrupp GitHub Pages (Source)
+[![Integration](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/CI.yml/badge.svg)](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/CI.yml) [![Deployment](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/CD.yml/badge.svg)](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/CD.yml) [![Webpage](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JRedrupp/JRedrupp.github.io/actions/workflows/pages/pages-build-deployment)
 > :warning: **If you are not looking for the source code**: Head to [jredrupp.github.io](https://jredrupp.github.io) for the actual website.
 
 ## What is this?
