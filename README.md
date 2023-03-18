@@ -8,7 +8,8 @@ Source code for my GitHub Pages website. It is built using [Yew](https://yew.rs/
 ## How to build
 1. Install [Rust](https://www.rust-lang.org/tools/install)
 2. Install [trunk](https://trunkrs.dev/)
-3. Run `trunk serve` in the root directory
+3. Install [tailwindcss](https://tailwindcss.com/docs/installation)
+4. Run `./run.sh` to build and serve the website
 
 ## License
 MIT License
