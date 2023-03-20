@@ -813,16 +813,16 @@ function getImports() {
         const ret = wasm.memory;
         return addHeapObject(ret);
     };
-    imports.wbg.__wbindgen_closure_wrapper707 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 323, __wbg_adapter_36);
+    imports.wbg.__wbindgen_closure_wrapper727 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 337, __wbg_adapter_36);
         return addHeapObject(ret);
     };
-    imports.wbg.__wbindgen_closure_wrapper1067 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 439, __wbg_adapter_39);
+    imports.wbg.__wbindgen_closure_wrapper1087 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 453, __wbg_adapter_39);
         return addHeapObject(ret);
     };
-    imports.wbg.__wbindgen_closure_wrapper1124 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 466, __wbg_adapter_42);
+    imports.wbg.__wbindgen_closure_wrapper1144 = function(arg0, arg1, arg2) {
+        const ret = makeMutClosure(arg0, arg1, 480, __wbg_adapter_42);
         return addHeapObject(ret);
     };
 
@@ -861,7 +861,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('github_pages-3289fc31d996f25a_bg.wasm', import.meta.url);
+        input = new URL('github_pages-dbd8da0d719ec983_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
